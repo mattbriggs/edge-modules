@@ -1,0 +1,21 @@
+"ID" : "10F69227-4C7B-4653-BD05-1369F5AE5EA4"
+"Status": "Active"
+"Create Date" : "3/26/2022"
+"Review Date" : "3/26/2022"
+"Publish Date" : "3/26/2022"
+"Reviewer" : "abha"
+"Author" : "mabrigg"
+"Service" : "aks-hci"
+"Area"  : "known-issues-windows-admin-center"
+"Tags"  : "['proof', 'concept']"
+"Source"  : "bugs"
+"Source ID"  : "1"
+"Source URL"  : "https://wwww.bugtool.com/1"
+"Target URL"  : "https://docs.microsoft.com/page"
+"Schema" : "known-issue"
+"Issue" : |
+  Networking field names are inconsistent in the Windows Admin Center portal
+"Description" : |
+  There are inconsistencies in network field names showing up in the host cluster deployment flow, and the workload cluster deployment flow.
+"Fix" : |
+  

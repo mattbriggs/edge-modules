@@ -1,0 +1,22 @@
+"ID" : "68D034D8-F905-4AC9-91B9-7C3CA13AFADC"
+"Status": "Active"
+"Create Date" : "3/26/2022"
+"Review Date" : "3/26/2022"
+"Publish Date" : "3/26/2022"
+"Reviewer" : "abha"
+"Author" : "mabrigg"
+"Service" : "aks-hci"
+"Area"  : "known-issues-windows-admin-center"
+"Tags"  : "['proof', 'concept']"
+"Source"  : "bugs"
+"Source ID"  : "1"
+"Source URL"  : "https://wwww.bugtool.com/1"
+"Target URL"  : "https://docs.microsoft.com/page"
+"Schema" : "known-issue"
+"Issue" : |
+  Windows Admin Center update dashboard doesn't refresh after successful updates
+"Description" : |
+  After a success upgrade, the Windows Admin Center update dashboard still shows the previous version. 
+  ![Networking field names inconsistent in WAC portal.](media/known-issues-windows-admin-center/wac-update-shows-previous-version.png)
+"Fix" : |
+  Refresh the browser to fix this issue. 
